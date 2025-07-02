@@ -1,0 +1,25 @@
+body {
+  background-color: #a2c7ff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.section-box {
+  background-color: #ffffff;
+  border: 2px solid #8c8d90;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section-box:hover {
+  background-color: #f7f9fc;
+  border-color: #4c77af;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #343a40;
+  margin-bottom: 12px;
+}
